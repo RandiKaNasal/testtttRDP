@@ -1,4 +1,4 @@
-name: @Oshekher
+name:
 
 on: workflow_dispatch
 
